@@ -43,3 +43,6 @@ Sample Output:
 
 Incase if you are not able to get the yolov7_384x640.onnx file, please refer the following google drive link:
 https://drive.google.com/drive/folders/10la83pNxpcCkqo5RPsiNTUKVSfkm_4Vf?usp=sharing
+
+
+refer the official yolov7 github link: https://github.com/ibaiGorordo/ONNX-YOLOv7-Object-Detection.git
