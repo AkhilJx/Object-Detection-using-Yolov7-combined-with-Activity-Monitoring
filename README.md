@@ -3,7 +3,7 @@ A Combination of Human Activity recognition using LSTM with Object detection usi
 
 This Python script integrates multiple computer vision and deep learning techniques to perform real-time human activity recognition using a combination of pose estimation and object detection. Here's a breakdown of the key functionalities:
 
-1. Import Libraries: The script begins by importing necessary libraries, including OpenCV, NumPy, and the MediaPipe library for holistic pose estimation and Onnxruntime: an open source project that is designed to accelerate machine learning across a wide range of frameworks, operating systems, and hardware platforms..
+1.Import Libraries: The script begins by importing necessary libraries, including OpenCV, NumPy, and the MediaPipe library for holistic pose estimation and Onnxruntime: an open source project that is designed to accelerate machine learning across a wide range of frameworks, operating systems, and hardware platforms..
 
 2.Initialize YOLOv7 Object Detector: An instance of the YOLOv7 object detector is initialized with a pre-trained model for detecting objects in the frame.
 
