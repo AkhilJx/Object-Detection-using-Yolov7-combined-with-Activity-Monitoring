@@ -1,0 +1,5 @@
+numpy - V1.26.2
+mediapipe - V0.10.8
+tensorflow- V2.15.0
+opencv-python - V4.8.1.78
+onnxruntime-gpu - V1.16.3
