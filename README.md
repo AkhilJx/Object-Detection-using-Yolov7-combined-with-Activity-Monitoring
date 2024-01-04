@@ -29,7 +29,7 @@ This Python script integrates multiple computer vision and deep learning techniq
 
 13.Real-Time Testing: The script captures video frames from the camera, performs object detection, pose estimation, and activity recognition. It uses an LSTM model to predict human activities and visualizes the results in real-time. The recognized activities are displayed on the screen.
 
-14.Output Video: The script also generates an output video ('Output.avi') with overlaid information about detected activities. ie the output of the program is saved locally so that we can show it 
+14.Output Video: The script also generates an output video ('Output.avi') with overlaid information about detected activities. ie the output of the program is saved locally so that we can showcase the output to others. this is completely optional.
 
 15.User Interaction: The script provides a user-friendly interface with instructions to press 'q' to exit.
 
