@@ -40,3 +40,6 @@ A bespoke model has been developed for human activity recognition, with the corr
 
 Sample Output:
 ![image](https://github.com/AkhilJx/Object-Detection-using-Yolov7-combined-with-Activity-Monitoring-using-LSTM/assets/78065413/c2a0c6ca-d928-4904-a4c2-b4d8ea14395f)
+
+Incase if you are not able to get the yolov7_384x640.onnx file, please refer the following google drive link:
+https://drive.google.com/drive/folders/10la83pNxpcCkqo5RPsiNTUKVSfkm_4Vf?usp=sharing
